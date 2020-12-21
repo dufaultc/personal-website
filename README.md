@@ -1,2 +1,2 @@
-# dufaultc.github.io
-This website will hold information about me and my personal projects
+# camerons-personal-website
+This website will hold cool stuff
